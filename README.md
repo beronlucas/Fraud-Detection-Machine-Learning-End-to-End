@@ -37,5 +37,17 @@ The goal is to **maximize fraud detection (recall)** while maintaining a reasona
 Accuracy is not used as the primary metric due to class imbalance.
 
 ## Project Structure
-
+fraud-detection-ml/
+├── data/
+├── notebooks/
+├── src/
+│ ├── data_preprocessing.py
+│ ├── train.py
+│ ├── predict.py
+├── api/
+│ └── main.py
+├── docker/
+│ └── Dockerfile
+├── requirements.txt
+└── README.md
 

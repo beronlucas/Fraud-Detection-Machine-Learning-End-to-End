@@ -51,3 +51,9 @@ fraud-detection-ml/
 ├── requirements.txt
 └── README.md
 
+##  Deployment
+The trained model is exposed as a REST API using FastAPI and containerized with Docker, ready for cloud deployment.
+
+## 🧑‍💻 Author
+Lucas Beron – Data / Machine Learning Engineer
+
